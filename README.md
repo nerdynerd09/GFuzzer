@@ -3,10 +3,18 @@
 GFuzzer is a Fuzzing tool made in GoLang, it is slow right now and will be made fast in coming days✌<br>
 It only reflects urls with status code as 
 ```200, 403, 301 and 302```
+# Installation
+
+ ```bash
+  $ git clone https://github.com/nerdynerd09/GFuzzer.git
+  $ cd GFuzzer
+  $ go build gfuzzer
+```
+
 # Usage 
 
 ```bash
-./guzzer http://<url> </path/to/wordlist>
+./gfuzzer http://<url> </path/to/wordlist>
 ```
 ![image](https://user-images.githubusercontent.com/63356733/176951637-84448a22-0a4e-4152-a3f1-54c16c7a225f.png)
 
