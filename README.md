@@ -1,8 +1,11 @@
 # GFuzzer
 
 GFuzzer is a Fuzzing tool made in GoLang, it is slow right now and will be made fast in coming days✌<br>
-It only reflects urls with status code as 
-```200, 403, 301 and 302```
+It only reflects urls with status code as ```200, 403, 301 and 302```
+<br><br>
+
+👉 Would be grateful if you can help me make it faster or if you have any idea/advice/suggestion please contact me on LinkedIn
+
 # Installation
 
  ```bash
